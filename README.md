@@ -1,7 +1,7 @@
 # POO-PracticaConversionClimatologica
 
 Sencillo programa en consola que funciona para convertir de grados celsius a fahrenheit y kelvin.
-Este programa es para aprendizaje.
+
 
   Copyright (C) 2021-2022 Carlos Alexander <carlosalexandergonzalezzgarcia@gmail.com>
  
